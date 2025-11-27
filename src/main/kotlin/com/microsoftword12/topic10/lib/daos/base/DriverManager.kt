@@ -1,4 +1,4 @@
-package com.microsoftword12.topic10.daos.base
+package com.microsoftword12.topic10.lib.daos.base
 
 import java.sql.Connection
 import java.sql.DriverManager
